@@ -1,0 +1,2 @@
+run = "python3 launch_dashboard_final.py"
+language = "python3"

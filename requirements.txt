@@ -1,0 +1,9 @@
+langchain
+langchain-community
+openai
+faiss-cpu
+tiktoken
+PyMuPDF
+unstructured
+python-docx
+streamlit
